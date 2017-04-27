@@ -1,0 +1,10 @@
+[package]
+
+name = "transmute-phantom"
+version = "0.1.0"
+authors = ["Franklin Chen <franklinchen@franklinchen.com>"]
+description = "Demonstrate use of a phantom type to transmute safely"
+homepage = "https://github.com/FranklinChen/transmute-phantom"
+repository = "https://github.com/FranklinChen/transmute-phantom"
+readme = "README.md"
+license = "MIT"
